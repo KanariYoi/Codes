@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Login Page</title>
+  </head>
+  <body>
+    <div class="div">
+      <div class="div-2">
+        <div class="div-3">
+          Inventory Management
+          <br />
+          & Tracking System
+        </div>
+        <div class="div-4">Welcome!</div>
+        <div class="div-5">
+          <img
+            loading="lazy"
+            src="https://cdn.builder.io/api/v1/image/assets/TEMP/57504037d7e6b3838ed793dd36d04799dd38f02f8e5105ccabc9e9c37e72edb4?"
+            class="img"
+          />
+          <input type="text" class="username-input" placeholder="Username" />
+        </div>
+        <div class="div-7">
+          <img
+            loading="lazy"
+            src="https://cdn.builder.io/api/v1/image/assets/TEMP/4b0865b3523fc7f3c3c2db5eeda8efec787964dab54409130a863b6511f8df50?"
+            class="img-2"
+          />
+          <input
+            type="password"
+            class="password-input"
+            placeholder="Password"
+          />
+        </div>
+        <button class="div-9">Login</button>
+        <div class="div-10">Forgot password?</div>
+      </div>
+    </div>
+  </body>
+</html>
